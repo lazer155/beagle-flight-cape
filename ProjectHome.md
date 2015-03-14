@@ -1,0 +1,1 @@
+STM32F4 based autopilot and light hardware interface for the BeagleBone.  Includes Zigbee transciever and power management.  The BeagleBone processor is not used for navigation or hardware control allowing all Beagle resources to be used for higher-level control (vision, etc).  Firmware is based on the PX4 autopilot.
